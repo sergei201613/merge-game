@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: cdd3b6d5249ebcc4cbd3da4f00a5c3c2
+  m_SerializeEntries:
+  - m_GUID: 2abcc265493f4c34ca3f284c35d039d0
+    m_Address: Assets/Gameplay/UI/Prefabs/HUDCanvas.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 37bf520fe74d5514cabfc35f70da6ef3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7b7e6e3029d8e654fb938e2ba219be9b, type: 2}
+    - {fileID: 11400000, guid: 2897f36761350ca489732e4a3cbca65c, type: 2}
